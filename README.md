@@ -64,17 +64,17 @@ $ git clone git@github.com:JulioGT/cf2.git
 
 ### `2. Go to the backend folder`
 ```
-$ cd bc2/backend/
+$ cd cf2/backend/
 ```
 
 ### `3. Type "yarn" and hit enter`
 ```
-:~/bc2/backend$ yarn
+:~/cf2/backend$ yarn
 ```
 
 ### `4. Turn the server on`
 ```
-:~/bc2/backend$ node app.js
+:~/cf2/backend$ node app.js
 ```
 
 ### `5. The application will run on PORT=6000 and you will see a welcome message`
@@ -104,7 +104,7 @@ $ cd frontend
 
 ### `2. Type "yarn" and hit enter`
 ```
-:~/bc2/frontend$ yarn
+:~/cf2/frontend$ yarn
 ```
 
 ### `3. Create a .env file and copy the content from the .env.example in it, both files should be in the same directory`
@@ -112,7 +112,7 @@ $ cd frontend
 
 ### `4. Run the application`
 ```
-:~/bc2/frontend$ yarn start
+:~/cf2/frontend$ yarn start
 ```
 
 ### `5. The application will run on PORT=3000, you can type this URL in the browser`
